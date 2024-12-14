@@ -1,6 +1,6 @@
 # Hi there, I'm Rafi Ahmad 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafiahmad222&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=rafiahmad222&color=red)
 
 ## About Me
 
@@ -30,8 +30,8 @@ I'm a passionate software developer with a strong interest in web development, m
 
 ## Projects
 
-- [Project 1](https://github.com/rafiahmad222/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/rafiahmad222/project2) - A brief description of what this project does.
+- [Project 1](https://github.com/rafiahmad222/PBO-11) - A brief description of what this project does.
+- [Project 2](https://github.com/rafiahmad222/Projek-Algo-2) - A brief description of what this project does.
 
 ## Blog Posts
 
@@ -40,7 +40,7 @@ I'm a passionate software developer with a strong interest in web development, m
 
 ## Other Interests
 
-Apart from coding, I enjoy [other hobbies or interests].
+Apart from coding, I enjoy building Iot.
 
 ## Support
 
