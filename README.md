@@ -4,14 +4,13 @@
 
 ## About Me
 
-I'm a passionate software developer with a strong interest in [your areas of interest, e.g., web development, machine learning, open-source contributions]. I love building applications that solve real-world problems and I'm always eager to learn new technologies and improve my skills.
+I'm a passionate software developer with a strong interest in web development, machine learning,. I love building applications that solve real-world problems and I'm always eager to learn new technologies and improve my skills.
 
-- 🌱 I’m currently learning [technologies or languages you are currently learning].
-- 👯 I’m looking to collaborate on [projects or types of projects you want to collaborate on].
-- 🤔 I’m looking for help with [any specific help you need].
-- 💬 Ask me about [topics you are knowledgeable about].
-- 📫 How to reach me: [your email or other contact info].
-- ⚡ Fun fact: [a fun fact about you].
+- 🌱 I’m currently learning in Fakultas Ilmu Komputer - Universitas Jember.
+- 🤔 I’m looking for help with python project problem.
+- 💬 Ask me about python.
+- 📫 How to reach me: rafiidany22@gmail.com or 232410101007@mail.unej.ac.id.
+- ⚡ Fun fact: Im so Funny.
 
 ## Connect with Me
 
