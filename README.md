@@ -30,17 +30,13 @@ I'm a passionate software developer with a strong interest in web development, m
 
 ## Projects
 
-- [Project 1](https://github.com/rafiahmad222/PBO-11) - A brief description of what this project does.
-- [Project 2](https://github.com/rafiahmad222/Projek-Algo-2) - A brief description of what this project does.
+- [PBO-11](https://github.com/rafiahmad222/PBO-11) 
+- [ProjeK Algo 2](https://github.com/rafiahmad222/Projek-Algo-2) 
 
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-## Other Interests
-
-Apart from coding, I enjoy building Iot.
 
 ## Support
 
