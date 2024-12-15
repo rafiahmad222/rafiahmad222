@@ -14,7 +14,7 @@ I'm a passionate software developer with a strong interest in web development, m
 
 ## Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-rafiahmadrifdany/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafi-ahmad-rifdany/)](https://www.linkedin.com/in/rafi-ahmad-rifdany/)
+[![Linkedin Badge](https://img.shields.io/badge/-rafiahmadrifdany-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafi-ahmad-rifdany-0a3952291/)](https://www.linkedin.com/in/rafi-ahmad-rifdany-0a3952291/)
 [![Instagram Badge](https://img.shields.io/badge/-rafirifdany-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/rafirifdany)](https://instagram.com/rafirifdany)
 
 ## GitHub Stats
