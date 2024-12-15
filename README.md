@@ -15,18 +15,13 @@ I'm a passionate software developer with a strong interest in web development, m
 ## Connect with Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-rafiahmad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafiahmad222/)](https://www.linkedin.com/in/rafiahmad222/)
-[![Twitter Badge](https://img.shields.io/badge/-@rafiahmad222-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/rafiahmad222)](https://twitter.com/rafiahmad222)
+[![Instagram Badge](https://img.shields.io/badge/-rafirifdany-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/rafirifdany)](https://instagram.com/rafirifdany)
 
 ## GitHub Stats
 
 ![Rafi Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiahmad222&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiahmad222&layout=compact&theme=radical)
-
-## Recent Activity
-
-🎉 Merged PR [#3](https://github.com/rafiahmad222/rafiahmad222/pull/3) in [rafiahmad222/rafiahmad222](https://github.com/rafiahmad222/rafiahmad222)
-
 
 ## Projects
 
