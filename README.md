@@ -25,18 +25,14 @@ I'm a passionate software developer with a strong interest in web development, m
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+!--START_SECTION:activity--
+!--END_SECTION:activity--
 
 ## Projects
 
 - [PBO-11](https://github.com/rafiahmad222/PBO-11) 
 - [ProjeK Algo 2](https://github.com/rafiahmad222/Projek-Algo-2) 
 
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Support
 
