@@ -25,8 +25,8 @@ I'm a passionate software developer with a strong interest in web development, m
 
 ## Recent Activity
 
-!--START_SECTION:activity--
-!--END_SECTION:activity--
+🎉 Merged PR [#3](https://github.com/rafiahmad222/rafiahmad222/pull/3) in [rafiahmad222/rafiahmad222](https://github.com/rafiahmad222/rafiahmad222)
+
 
 ## Projects
 
