@@ -1,4 +1,4 @@
-# Hi there, I'm Rafi Ahmad 👋
+# Hi, I'm Rafi Ahmad 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafiahmad222&color=red)
 
@@ -26,7 +26,8 @@ I'm a passionate software developer with a strong interest in web development, m
 ## Projects
 
 - [PBO-11](https://github.com/rafiahmad222/PBO-11) 
-- [ProjeK Algo 2](https://github.com/rafiahmad222/Projek-Algo-2) 
+- [ProjeK Algo 2](https://github.com/rafiahmad222/Projek-Algo-2)
+- [PPL B7 AgroMart](https://github.com/rafiahmad222/PPLB7-AgroMart)
 
 
 ## Support
